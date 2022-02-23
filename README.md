@@ -36,3 +36,7 @@ the final GIF.
                                    ----------
                       BatchNormalization (with default values)
 ```
+
+# Lives on the Blockchain!
+This project's output also minted and listed on OpenSea
+[Get the item!](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/95202647556271955572982637523054989277279704670720503865731697009783186915329/)
